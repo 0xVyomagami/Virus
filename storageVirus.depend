@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702822447 source:c:\users\vboxuser\mal_dev\storagevirus\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<shlobj.h>
+
